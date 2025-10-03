@@ -26,7 +26,7 @@ This repository contains the step-by-step documentation and screenshots for crea
 
 ## Screenshots
 if you want to see the all project screenshoot [`click here`](https://github.com/emerick149/oracle_pdb_assignment-CYIZERE-ELIE-27492/tree/main/screenshoots)
-if you want to see the project report document [`click here`]()
+if you want to see the project report document [`click here`](https://github.com/emerick149/oracle_pdb_assignment-CYIZERE-ELIE-27492/tree/main/report)
 
 ---
 
